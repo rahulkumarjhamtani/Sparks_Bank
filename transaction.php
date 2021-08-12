@@ -63,7 +63,7 @@ include('header.php');
     ?>
 
     <form id="myform" class="box" method="POST">
-      <h1>Transfer Money</h1>
+      <h1 class="is-size-3-mobile">Transfer Money</h1>
       <?php
       if ($error) {
       ?>
